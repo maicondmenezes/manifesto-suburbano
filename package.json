@@ -1,0 +1,26 @@
+{
+  "name": "manifesto-suburbano",
+  "version": "1.0.0",
+  "description": "This webapp works like a retro game to publish my ep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maicondmenezes/manifesto-suburbano.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maicondmenezes/manifesto-suburbano/issues"
+  },
+  "homepage": "https://github.com/maicondmenezes/manifesto-suburbano#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
